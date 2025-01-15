@@ -1,1 +1,1 @@
-Ein flussdiagram aber interaktiv für die schule
+Ein interaktives Flussdiagramm als Schulprojekt
